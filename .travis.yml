@@ -5,7 +5,7 @@ language: python
 python:
   - "3.7.9"
   
- #CORRIGINDO O ERRO
+#CORRIGINDO O ERRO
  dist: focal
 
 # Instalação de Módulos que são necessários para a Aplicação.
